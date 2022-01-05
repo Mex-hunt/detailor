@@ -1,0 +1,2 @@
+# detailor
+the detailor app
